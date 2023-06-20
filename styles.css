@@ -1,0 +1,27 @@
+* {
+  font-family: 'Pokemon Solid', sans-serif;
+}
+
+.card {
+  width: 10rem;
+  margin-bottom: 0.5rem;
+  margin-left: 0.5rem;
+  padding-top: 0.5rem;
+}
+
+.chart-container {
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+}
+
+nav {
+  background-color: red;
+
+}
